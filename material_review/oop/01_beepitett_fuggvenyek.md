@@ -29,9 +29,7 @@
     for i, item in enumerate(napok):
         print(napok[i])
     # ugyanaz az eredmeny
-    ```
 
-    ```py
     # nem enumerate, de erdekes, es hasznos:
     # dictionary-kon vegigmenni ciklussal:
 
@@ -55,6 +53,7 @@
     ad a függvény, ha valamelyik objektumra teljesül az isinstance() reláció
   - type(324) --> int
   - isinstance(324, int) --> true
+  - osztalyoknal lehet meg hasznos
 - `max()`
   - Egy nem üres szekvencia legnagyobb elemét adja vissza értékül.
     ```py
