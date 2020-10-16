@@ -1,0 +1,47 @@
+Házi Feladat Ellenőrzés
+
+Beépített függvények
+abs()
+enumerate()
+isinstance()
+max()
+min()
+reversed()
+round()
+sum()
+list.index()
+Konverziók
+int()
+float()
+list()
+str()
+File kezelés
+open()
+read, write és append mód
+file.readline()
+file.close()
+file.read()
+file.write()
+UTF-8
+Kivétel kezelés
+try:
+except:
+else:
+finally:
+except Error as e:
+NameError
+IndexError
+ZeroDivisionError
+Modulok
+import
+előre definiált modulok
+saját modulok
+pip
+Osztályok és Objektumok
+class
+tagváltozók
+példányosítás
+metódusok
+self
+dinamikus objektumok
+__init__
